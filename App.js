@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Darren W Dean</Text>
-      <Text>Bound for Belize!!!</Text>
+      <Text>Bound for Greatness!!!</Text>
       <StatusBar style="auto" />
     </View>
   );
